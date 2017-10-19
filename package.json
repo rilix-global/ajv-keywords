@@ -1,8 +1,8 @@
 {
   "name": "@rilix/ajv-keywords",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "extra keywords for ajv",
-  "main": "src/index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "jest",
     "prepublish": "node_modules/.bin/babel -d dist/ src/"
